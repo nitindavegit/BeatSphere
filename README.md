@@ -1,8 +1,7 @@
 # 🎵 Beatsphere
 
-<!-- Add logo/banner image here -->
 <div align="center">
-  <img src="docs/images/logo.png" alt="Beatsphere Logo" width="200" height="200">
+  <img src="images/logo.png" alt="Beatsphere Logo" width="200" height="200">
   <p><em>A modern music streaming application built with Flutter and FastAPI</em></p>
 </div>
 
@@ -58,14 +57,18 @@ The application follows modern software architecture principles with clean separ
 
 ## 📱 Screenshots
 
-<!-- Add screenshots here -->
 <div align="center">
-  <img src="docs/screenshots/home.png" alt="Home Screen" width="250">
-  <img src="docs/screenshots/player.png" alt="Music Player" width="250">
-  <img src="docs/screenshots/library.png" alt="Library" width="250">
+  <img src="images/sign in.jpg" alt="Sign In Screen" width="250">
+  <img src="images/sign up.jpg" alt="Sign Up Screen" width="250">
+  <img src="images/song page.jpg" alt="Song Library" width="250">
 </div>
 
-*Screenshots will be added soon*
+<div align="center">
+  <img src="images/music slab.jpg" alt="Music Player" width="250">
+  <img src="images/upload song page.jpg" alt="Upload Song" width="250">
+</div>
+
+*Experience the beautiful and intuitive interface of Beatsphere*
 
 ## 🏗️ Architecture
 
