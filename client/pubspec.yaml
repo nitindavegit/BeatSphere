@@ -1,0 +1,44 @@
+name: client
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.4.0
+  fpdart: ^1.1.1
+  flutter_riverpod: ^2.6.1
+  riverpod_annotation: ^2.6.1
+  shared_preferences: ^2.5.3 
+  riverpod: ^2.6.1 
+  dotted_border: ^2.1.0
+  flex_color_picker: ^3.7.1
+  file_picker: ^10.2.0
+  audio_waveforms: ^1.3.0
+  just_audio: ^0.10.4
+  hive: ^2.2.3                # ✅ Use stable Hive
+  path_provider: ^2.1.0       # ✅ For getApplicationDocumentsDirectory()
+  just_audio_background: ^0.0.1-beta.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  riverpod_generator: ^2.6.5
+  build_runner: ^2.5.4
+  riverpod_lint: ^2.3.0       # Compatible with analyzer <7
+  custom_lint: ^0.7.5
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
