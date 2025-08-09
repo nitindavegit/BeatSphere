@@ -386,9 +386,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Project Maintainer**: Nitin Dave
 - Email: nitindave2111@gmail.com
 - GitHub: [@nitindavegit](https://github.com/nitindavegit)
-- LinkedIn: ([https://linkedin.com/in/](https://www.linkedin.com/in/nitindave/))
+- LinkedIn: ([https://linkedin.com/in/nitindave/](https://www.linkedin.com/in/nitindave/))
 
-**Project Link**: ([https://github.com/yourusername/beatsphere](https://github.com/nitindavegit/BeatSphere))
+**Project Link**: ([https://github.com/nitindavegit/beatsphere](https://github.com/nitindavegit/BeatSphere))
 
 ---
 
