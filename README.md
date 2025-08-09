@@ -383,12 +383,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Maintainer**: [Your Name]
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Project Maintainer**: Nitin Dave
+- Email: nitindave2111@gmail.com
+- GitHub: [@nitindavegit](https://github.com/nitindavegit)
+- LinkedIn: ([https://linkedin.com/in/](https://www.linkedin.com/in/nitindave/))
 
-**Project Link**: [https://github.com/yourusername/beatsphere](https://github.com/yourusername/beatsphere)
+**Project Link**: ([https://github.com/yourusername/beatsphere](https://github.com/nitindavegit/BeatSphere))
 
 ---
 
